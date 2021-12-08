@@ -1,0 +1,11 @@
+Model Information:
+* title:	S Oliver Mens Sneaker
+* source:	https://sketchfab.com/3d-models/s-oliver-mens-sneaker-8fbfb7f2c3d7442b8dd7e861bc23758b
+* author:	Sikozu (https://sketchfab.com/sikozu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "S Oliver Mens Sneaker" (https://sketchfab.com/3d-models/s-oliver-mens-sneaker-8fbfb7f2c3d7442b8dd7e861bc23758b) by Sikozu (https://sketchfab.com/sikozu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
